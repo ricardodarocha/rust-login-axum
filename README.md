@@ -41,5 +41,11 @@ git clone
 >```rust
 >cargo build --release
 >cargo run --release
+
+> (7) run the tests
+> 
+> Open test.http in vscode an run the requests POST CREATE USER, POST LOGIN, GET USER LIST
+> 
+> Install http extension to see some helper actions
  
  
